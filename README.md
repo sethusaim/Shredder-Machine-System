@@ -17,14 +17,14 @@ In processing industries, like Waste Management,accidents occurred when a worker
 - Tensorflow Object Detection 1.14 API
 - Tensorflow Object Detection Models
 
-## Model Used for training and prediction : 
+### Model Used for training and prediction : 
 - SSD Lite MobileNet V2 COCO
 
-## Shredder Machine :
-![alt text](https://github.com/sethusaim/Shredder-Machine-System/blob/main/other/img1.jpg?raw=true)
+### Results :
+Achieved an mAP of 85 with average FPS of 30
 
 ## Deployment :
 The entire solution was deployed as an on prem solution with the required infrastructure and setup done.
 
-## Results :
-Achieved an mAP of 85 with average FPS of 30
+## Shredder Machine :
+![alt text](https://github.com/sethusaim/Shredder-Machine-System/blob/main/other/img1.jpg?raw=true)
