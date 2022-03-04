@@ -9,4 +9,4 @@ Accident occurred when a worker was feeding paper into a shredder machine and di
   - Tensorflow
 
 ## Shredder Machine  :
-![alt text](https://github.com/Mann1904/ShredderMachine-Workers-Safety-Project/blob/master/test_images/img1.jpg?raw=true)
+![alt text](https://github.com/sethusaim/Shredder-Machine-System/blob/main/other/img1.jpg?raw=true)
