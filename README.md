@@ -18,7 +18,7 @@ In processing industries, like Waste Management,accidents occurred when a worker
 - Tensorflow Object Detection Models
 
 ### Model Used for training and prediction : 
-- SSD Lite MobileNet V2 COCO
+- SSD Lite MobileNet V2 COCO 
 
 ### Results :
 Achieved an mAP of 85 with average FPS of 30
