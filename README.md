@@ -12,7 +12,7 @@ In processing industries, like Waste Management,accidents occurred when a worker
 ### Model Training and Futher Improvements:
 
 
-## Tools and Technologies Used :
+### Tools and Technologies Used :
 - Python
 - Tensorflow Object Detection 1.14 API
 - Tensorflow Object Detection Models
